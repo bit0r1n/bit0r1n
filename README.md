@@ -1,5 +1,5 @@
 # 🥵 bit0r1n
-👋 Hey, thank you for visiting my GitHub profile. My name is **Sergey**, I am from Belarus, 18 y.o.
+👋 Hey, thank you for visiting my GitHub profile. My name is **Sergey**, I am from Belarus, 19 y.o.
 ## Interests and hobbies
 ⌨️ I am interested in developing some backend/software things, sometimes doing something related to frontend, I also have a hobby in the form of 🔎 modifying my custom keyboard, previously was interested in 📲 custom ROMs for smartphones. _and using arch btw_ 🤓
 ## Projects and other
