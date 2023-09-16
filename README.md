@@ -5,7 +5,7 @@
 ## Projects and other
 * [**GenAi**](https://genai.bot) - Discord bot, that can generate messages and create images based on saved channels messages with Markov text generator with lot of customization (and funnies) [used: TypeScript, JavaScript, nim, NestJS, Aerospike, Canvas, docker (+ compose), Patreon HTTP Webhooks👎]
 	* [**nimkov**](https://github.com/bit0r1n/nimkov) - nim library for implementing Markov text generator
-* MITSO Schedule bot - bot for getting schedule of classes for MITSO University (wip :c) [used: nim, Redis, docker (+ compose), MongoDB in future]
+* [**MITSO Schedule bot**](https://github.com/bit0r1n/mitso-bot) - bot for getting schedule of classes for MITSO University [used: nim, TypeScript, bun, docker (+ compose), MongoDB]
 ## Skills
 ### Familiar
 <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat" height=25> <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=flat" height=25> <img src="https://img.shields.io/badge/-NodeJS-43853d?logo=nodedotjs&logoColor=white&style=flat" height=25><br>
