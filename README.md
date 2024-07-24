@@ -1,5 +1,5 @@
 # 🥵 bit0r1n
-👋 Hey, thank you for visiting my GitHub profile. My name is **Sergey**, I am from Belarus, 19 y.o.
+👋 Hey, thank you for visiting my GitHub profile. My name is **Sergey**, I am from Belarus, 20 y.o.
 ## Interests and hobbies
 ⌨️ I am interested in developing some backend/software things, sometimes doing something related to frontend, I also have a hobby in the form of 🔎 modifying my custom keyboard, previously was interested in 📲 custom ROMs for smartphones. _and using arch btw_ 🤓
 ## Projects and other
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/-bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height=25> <img src="https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height=25>
 ### Can do something, if I need it
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Nim❤️-FFE953?style=flat&logo=nim&logoColor=black" height=25> <img src="https://img.shields.io/badge/-Java-f89820?style=flat" height=25> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height=25><br>
-<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" height=25><br>
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" height=25> <img src="https://img.shields.io/badge/-React-149ECA?style=flat&logo=react&logoColor=white" height=25><br>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" height=25>
 
 ### Was interested, probably know something
