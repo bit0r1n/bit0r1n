@@ -3,7 +3,7 @@
 ## Interests and hobbies
 ⌨️ I am interested in developing some backend/software things, sometimes doing something related to frontend, I also have a hobby in the form of 🔎 modifying my custom keyboard, previously was interested in 📲 custom ROMs for smartphones. _and using arch btw_ 🤓
 ## Projects and other
-* [**GenAi**](https://genai.bot) - Discord bot, that can generate messages and create images based on saved channels messages with Markov text generator with lot of customization (and funnies) [used: TypeScript, JavaScript, nim, NestJS, Aerospike, Canvas, docker (+ compose), Patreon HTTP Webhooks👎]
+* [**GenAi**](https://genai.bot) - Discord bot, that can generate messages and create images based on saved channels messages with Markov text generator with lot of customization (and funnies) [used: TypeScript, JavaScript, nim, NestJS, Redis, Aerospike, Scylla/Cassandra, Canvas, docker (+ compose), NATS, SMTP/sending, Patreon HTTP API]
 	* [**nimkov**](https://github.com/bit0r1n/nimkov) - nim library for implementing Markov text generator
 * [**MITSO Schedule bot**](https://github.com/bit0r1n/mitso-bot) - bot for getting schedule of classes for MITSO University [used: nim, TypeScript, bun, docker (+ compose), MongoDB]
 ## Skills
